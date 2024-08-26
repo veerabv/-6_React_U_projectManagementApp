@@ -5,6 +5,9 @@ export default {
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
+    fontFamily:{
+      main : ["Baskervville SC", 'serif']
+    },
     extend: {},
   },
   plugins: [],
